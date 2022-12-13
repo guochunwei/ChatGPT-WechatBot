@@ -27,7 +27,7 @@
 git clone https://github.com/869413421/wechatbot.git
 
 # 进入项目目录
-cd wechatbot
+cd ChatGPT-WechatBot
 
 # 复制配置文件
 copy config.dev.json config.json
