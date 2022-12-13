@@ -25,7 +25,7 @@
 ````
 # 获取项目
 
-git clone [https://github.com/869413421/wechatbot.git](https://github.com/guochunwei/ChatGPT-WechatBot.git)
+git clone https://github.com/guochunwei/ChatGPT-WechatBot.git
 
 # 进入项目目录
 cd ChatGPT-WechatBot
