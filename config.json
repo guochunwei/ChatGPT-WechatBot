@@ -1,0 +1,5 @@
+{
+  "api_key": "填写自己的openai的key",
+  "auto_pass": false,
+  "session_timeout": 60
+}
