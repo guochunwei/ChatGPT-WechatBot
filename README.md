@@ -31,7 +31,7 @@ git clone https://github.com/guochunwei/ChatGPT-WechatBot.git
 cd ChatGPT-WechatBot
 
 # 编辑配置文件
-1.修改项目根目录的config.json配置文件，详细配置见下文配置说明
+1.修改项目根目录的config.json配置文件，详细配置见下文“配置文件说明”；
 2.进入bin目录，修改config.json配置文件，同上。
 
 # 复制配置文件
