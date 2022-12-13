@@ -1,5 +1,5 @@
 # wechatbot
-> 最近ChatGPT异常火爆，本项目可以将个人微信化身GPT机器人，
+> 最近ChatGPT非常火爆，本项目可以将个人微信化身GPT机器人，
 > 项目基于[openwechat](https://github.com/eatmoreapple/openwechat) 开发。
 
 [![Release](https://img.shields.io/github/v/release/869413421/wechatbot.svg?style=flat-square)](https://github.com/869413421/wechatbot/releases/tag/v1.0.1)
